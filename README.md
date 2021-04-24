@@ -5,4 +5,4 @@ exegesis
 
 
 |Personal Notes and Thoughts| 
-|---------------------------|
+|---|
